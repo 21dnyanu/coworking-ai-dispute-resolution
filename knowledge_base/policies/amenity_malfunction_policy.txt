@@ -1,0 +1,23 @@
+[SAMPLE POLICY DOCUMENT: FOR DEMONSTRATION AND DISPUTE RESOLUTION]
+DOCUMENT: Amenity Malfunction and Service Outage Policy
+VERSION: 1.2
+EFFECTIVE DATE: 2026-01-01
+
+SECTION 1: OVERVIEW AND SCOPE
+This policy governs claims arising from unavailable, broken, or substandard amenities in booked coworking spaces, private cabins, meeting rooms, and creative studios.
+
+SECTION 2: CLASSIFICATION OF AMENITIES
+2.1 Primary Amenities: Essential utilities and featured equipment including high-speed Internet (Wi-Fi), central Air Conditioning, electrical power, and AV/Projectors in dedicated Meeting Rooms or Studios.
+2.2 Secondary Amenities: Comfort and convenience additions such as whiteboards, markers, stationery, coffee/tea bars, and general lounge seating.
+
+SECTION 3: WI-FI AND CONNECTIVITY FAILURES
+3.1 Verified Outages: If Wi-Fi is completely inoperable for more than 50% of the reserved booking duration, and the host or facility fails to provide a backup hotspot, the customer is entitled to a 50% PARTIAL REFUND of the booking fee.
+3.2 Photographic Limitations: A photograph of a router, cable, or network hardware verifies physical presence but does not verify signal loss or bandwidth failure. A screenshot of an error, speed test, or host confirmation is required to substantiate outage claims.
+3.3 If an unrelated image (such as an image of refuse, unrelated furniture, or outdoor street) is provided, the photo is flagged as UNRELATED. The complaint will still be reviewed, but requires independent verification.
+
+SECTION 4: EQUIPMENT BREAKDOWN (PROJECTORS, MONITORS, SOUND SYSTEMS)
+4.1 Failure at Check-in: If an advertised primary equipment item (such as a projector in a Meeting Room) is non-functional upon check-in and cannot be repaired or replaced within 30 minutes, the customer is entitled to a 50% PARTIAL REFUND of the booking fee.
+4.2 Host Verification: If the host disputes the breakdown and claims the equipment was operational, and no technician log or diagnostic test exists, the case must be escalated to MANUAL INVESTIGATION.
+
+SECTION 5: SECONDARY AMENITY DEFICIENCIES
+5.1 Missing secondary amenities (e.g., dry erase markers, complimentary beverages) do not qualify for cash refunds. The host may issue a 10% platform credit for a future session.

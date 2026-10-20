@@ -1,0 +1,12 @@
+[SAMPLE POLICY DOCUMENT: FOR DEMONSTRATION AND DISPUTE RESOLUTION]
+DOCUMENT: Property Damage and Security Deposit Policy
+VERSION: 1.0
+EFFECTIVE DATE: 2026-01-01
+
+SECTION 1: DISPUTES REGARDING PHYSICAL DAMAGE
+1.1 Standard of Proof: A host claiming damage to equipment, furniture, or premises caused by a guest must provide contemporaneous evidence:
+- Timestamped pre-check-in photos or checklist dated within 2 hours prior to reservation.
+- Timestamped post-checkout photos taken within 1 hour after customer departure.
+1.2 Conflicting Allegations: If the host alleges that the guest damaged an item (e.g. cracked chair or spilled beverage on desk) and the customer denies causing the damage:
+- If pre-check-in photos do not exist to prove the item was undamaged immediately prior to customer arrival, the customer cannot be held liable.
+- Such disputes must be referred to MANUAL INVESTIGATION. No automated financial penalty or refund deduction can be applied.

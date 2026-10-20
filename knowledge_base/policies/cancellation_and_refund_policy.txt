@@ -1,0 +1,12 @@
+[SAMPLE POLICY DOCUMENT: FOR DEMONSTRATION AND DISPUTE RESOLUTION]
+DOCUMENT: Cancellation, Rescheduling, and Standard Refund Schedule
+VERSION: 2.0
+EFFECTIVE DATE: 2026-01-01
+
+SECTION 1: ADVANCE CANCELLATION TIERS
+1.1 Greater than 24 Hours: If the customer cancels 24 hours or more prior to the scheduled booking start time, a 100% FULL REFUND is automatically processed.
+1.2 Between 6 and 24 Hours: Cancellations submitted between 6 and 24 hours before the booking start time are eligible for a 50% PARTIAL REFUND.
+1.3 Under 6 Hours: Cancellations requested less than 6 hours prior to start time are non-refundable (NO REFUND), except under substantiated emergency circumstances approved by Admin.
+
+SECTION 2: HOST INITIATED CANCELLATION
+2.1 If a host cancels a reservation at any time prior to or during the scheduled reservation, the customer receives an immediate 100% FULL REFUND and a 20% platform credit voucher.

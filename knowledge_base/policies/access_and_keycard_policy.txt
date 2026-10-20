@@ -1,0 +1,16 @@
+[SAMPLE POLICY DOCUMENT: FOR DEMONSTRATION AND DISPUTE RESOLUTION]
+DOCUMENT: Space Access and Entry Lockout Policy
+VERSION: 1.1
+EFFECTIVE DATE: 2026-01-01
+
+SECTION 1: RIGHT OF ENTRY
+Every confirmed booking grants the verified customer exclusive right of access to the designated space for the full time window specified in the booking confirmation.
+
+SECTION 2: HOST LOCKOUT AND DENIED ENTRY
+2.1 Full Denial of Access: If a customer arrives at the coworking space or private cabin on time but is unable to gain entry due to an unresponsive host, incorrect smart door PIN, missing security badge, or double booking, and access is not provided within 20 minutes of the scheduled start time:
+- The customer is entitled to a 100% FULL REFUND of all fees paid for that booking.
+2.2 Verification Standards: Customer claims of lockout require verification of on-site arrival (such as time-stamped text message to host, security front desk register, or prompt complaint submission).
+2.3 The existence of a booking record in the database proves a reservation was made, but does NOT independently prove that the customer gained entry.
+
+SECTION 3: CUSTOMER NO-SHOW OR VOLUNTARY ABANDONMENT
+3.1 If security access logs or front-desk check-in registers demonstrate that the space was unlocked and ready, and the customer arrived more than 60 minutes late or did not attend without prior notice, NO REFUND shall be granted.
